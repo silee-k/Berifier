@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "Berifier", "Berifier.fsproj", "{236752AA-77BA-444B-BB26-C3930E267B82}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{236752AA-77BA-444B-BB26-C3930E267B82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{236752AA-77BA-444B-BB26-C3930E267B82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{236752AA-77BA-444B-BB26-C3930E267B82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{236752AA-77BA-444B-BB26-C3930E267B82}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59F944DC-AECF-47CE-8C82-8591CEC162CC}
+	EndGlobalSection
+EndGlobal

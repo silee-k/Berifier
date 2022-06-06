@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="SSAPromotion.fs" />
+    <Compile Include="B2R2Utils.fs" />
+    <Compile Include="Verifier.fs" />
+    <Compile Include="Extractor.fs" />
+    <Compile Include="Main.fs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="B2R2.MiddleEnd.BinEssence" Version="0.5.1" />
+    <PackageReference Include="Microsoft.Z3" Version="4.8.17" />
+  </ItemGroup>
+
+</Project>
